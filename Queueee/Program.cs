@@ -88,6 +88,8 @@ namespace Queueee
                 Console.WriteLine();
             }
         }
-
+        static void Main(string[] args)
+        { 
+        }
     }
 }
